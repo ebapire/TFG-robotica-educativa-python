@@ -1,0 +1,11 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Introducción}{4}{0}{1}
+\beamer@subsectionintoc {1}{1}{Contexto general}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Contexto específico}{6}{0}{1}
+\beamer@sectionintoc {2}{Objetivos}{7}{0}{2}
+\beamer@sectionintoc {3}{Herramientas usadas}{8}{0}{3}
+\beamer@sectionintoc {4}{PyBoKids 2.0}{9}{0}{4}
+\beamer@subsectionintoc {4}{1}{Diseño}{9}{0}{4}
+\beamer@subsectionintoc {4}{2}{Desarrollo}{11}{0}{4}
+\beamer@sectionintoc {5}{Contenidos educativos}{14}{0}{5}
+\beamer@sectionintoc {6}{Conclusiones}{18}{0}{6}
